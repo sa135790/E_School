@@ -1,0 +1,17 @@
+{
+  "name": "3.-e_school",
+  "version": "1.0.0",
+  "description": "Use of bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello bootstrap"
+  },
+  "keywords": [
+    "asad"
+  ],
+  "author": "asad",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
